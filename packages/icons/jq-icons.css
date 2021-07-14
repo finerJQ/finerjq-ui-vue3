@@ -1,0 +1,64 @@
+/* icons css */
+
+.jq-icon-clear::after
+{
+  content: '';
+  display: block;
+  height: 24px;
+  width: 24px;
+}
+
+.jq-icon-search-small::after,
+.jq-icon-eye-small::after,
+.jq-icon-eye-mask-small::after,
+.jq-icon-clear-small::after
+{
+  content: '';
+  display: block;
+  height: 18px;
+  width: 18px;
+}
+
+.jq-icon-search-mini::after,
+.jq-icon-eye-mini::after,
+.jq-icon-eye-mask-mini::after,
+.jq-icon-clear-mini::after
+{
+  content: '';
+  display: block;
+  height: 12px;
+  width: 12px;
+}
+
+/* search 搜索图标 */
+.jq-icon-search-small::after {
+  background-image: url(./svg/Icons-search-small.svg);
+}
+.jq-icon-search-mini::after {
+  background-image: url(./svg/Icons-search-mini.svg);
+}
+
+/* 密码眼睛图标 */
+.jq-icon-eye-small::after {
+  background-image: url(./svg/Icons-Eye-small.svg);
+}
+.jq-icon-eye-mask-small::after {
+  background-image: url(./svg/Icons-Eye-mask-small.svg);
+}
+.jq-icon-eye-mini::after {
+  background-image: url(./svg/Icons-Eye-mini.svg);
+}
+.jq-icon-eye-mask-mini::after {
+  background-image: url(./svg//Icons-Eye-mask-mini.svg);
+}
+
+/* clear(X)图标 */
+.jq-icon-clear::after {
+  background-image: url(./svg/Icons-Clear.svg);
+}
+.jq-icon-clear-small::after {
+  background-image: url(./svg/Icons-Clear-small.svg);
+}
+.jq-icon-clear-mini::after {
+  background-image: url(./svg/Icons-Clear-mini.svg);
+}

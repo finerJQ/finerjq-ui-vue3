@@ -1,9 +1,11 @@
 // 
 
 import jqSwitch from './jqSwitch'
+import jqInput from './jqInput'
 
 const components = [
-  jqSwitch
+  jqSwitch,
+  jqInput,
 ]
 
 const install = function (Vue) {
@@ -17,5 +19,6 @@ if(typeof window !== 'undefined' && window.Vue) {
 
 export default {
   install,
-  jqSwitch
+  jqSwitch,
+  jqInput,
 }
