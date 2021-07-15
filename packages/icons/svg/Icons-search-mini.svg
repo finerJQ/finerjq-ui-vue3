@@ -1,0 +1,10 @@
+<svg id="Icons_search" data-name="Icons/search" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <rect id="矩形_1500" data-name="矩形 1500" width="12" height="12" fill="none"/>
+  <g id="Icons_search-0" data-name="Icons/search-0" transform="translate(0.75 0.75)">
+    <g id="路径_3" data-name="路径 3" fill="none">
+      <path d="M5,0A5,5,0,1,1,0,5,5,5,0,0,1,5,0Z" stroke="none"/>
+      <path d="M 5 1 C 2.794390201568604 1 1 2.794390201568604 1 5 C 1 7.205610275268555 2.794390201568604 9 5 9 C 7.205610275268555 9 9 7.205610275268555 9 5 C 9 2.794390201568604 7.205610275268555 1 5 1 M 5 0 C 7.761420249938965 0 10 2.238580226898193 10 5 C 10 7.761420249938965 7.761420249938965 10 5 10 C 2.238580226898193 10 0 7.761420249938965 0 5 C 0 2.238580226898193 2.238580226898193 0 5 0 Z" stroke="none" fill="#666"/>
+    </g>
+    <line id="直线_4" data-name="直线 4" x2="2" y2="2" transform="translate(8.5 8.5)" fill="none" stroke="#666" stroke-width="1"/>
+  </g>
+</svg>

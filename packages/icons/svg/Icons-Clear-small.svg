@@ -1,0 +1,8 @@
+<svg id="Icons_Clear" data-name="Icons/Clear" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="椭圆_3" data-name="椭圆 3" fill="none" stroke="#666" stroke-width="1">
+    <circle cx="9" cy="9" r="9" stroke="none"/>
+    <circle cx="9" cy="9" r="8.5" fill="none"/>
+  </g>
+  <line id="直线_2" data-name="直线 2" y2="12" transform="translate(4.757 4.757) rotate(-45)" fill="none" stroke="#666" stroke-width="1.5"/>
+  <line id="直线_3" data-name="直线 3" y2="12" transform="translate(13.243 4.757) rotate(45)" fill="none" stroke="#666" stroke-width="1.5"/>
+</svg>
